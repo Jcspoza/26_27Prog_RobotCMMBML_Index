@@ -4,19 +4,48 @@
 
 Esta mini web se usará como guía del curso. Se ira actualizando con las clases que se vayan impartiendo, de forma que la mini - web de la clase estará disponible con antelación al dia y hora de la clase.
 
-## Indice de clases (a ir ampliando)
+## Preferencia e Ideas de los alumnos que continúan
 
-Se irán publicando los enlaces a las clases aqui. El contenido de las clases o al menso un resumen se publicará en 'mini-webs', los enlaces a estas mini webs se iran incluyendo abajo
+1- Reforzar conocimientos de Python, mas contenido de Python
+
+* Repasar programación funcional
+
+* Incluir programación orientada a Objetos (POO)
+
+* Interfaces gráficos de usuario (GUI) 
+
+2- En robotica estudiar y hacer proyectos con :
+
+* Motores Servo
+
+* Medidores distancia por ultrasonidos
+
+* Ampliar Displays gráficos en blanco y negro: ejemplo ampliar SH1106
+
+* Estudiar displays gráficos en color  ejemplo ILI9341
+
+## Indice de clases, a ir ampliando y modificando en consenso
+
+Se irán publicando los enlaces a las clases aqui. El contenido de las clases se publicará en 'mini-webs' en github como se ha hecho otros años. Los enlaces a estas mini webs se irán incluyendo abajo.
+
+IMPORTANTE : las clases a dar las consensuaremos asi que el orden puede cambiar
+
+Este año, si veo que no tengo tiempo se publicara solo lo básico en estas miniwebs, a modo de **resumen: con programas, links a tutoriales**  , etc. y durante la clase se explicara el material
+
+
 
 **Las clases son unidades temáticas que pueden impartirse en varios días**
 
-| Link y Titulo                                                                                     | Contenido                                                                                                                                                     | Impartida / días | Notas                              |
-| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------------------------- |
-| [2627CL0](https://github.com/Jcspoza/2627CL0_PyR_Intro)                                           | Requisitos de entrada / Presentaciones / Que es la robotica / Enfoque del taller/ Que herramientas vamos a necesitar/ Funcionamiento de las clases / 2 demos: |                  | Actualizado del curso 2526 al 2627 |
-| [CL2 Primeros pasos en Python -IDE online](https://github.com/Jcspoza/2526CL2_1rosPasosPyNoIDEpc) | Primer y segundo programa en Python sin necesidad de instalar nada. Objetivo : ver como es programar en lo mas básico                                         |                  | Pertenece al curso 2025_26         |
-|                                                                                                   |                                                                                                                                                               |                  |                                    |
-|                                                                                                   |                                                                                                                                                               |                  |                                    |
-|                                                                                                   |                                                                                                                                                               |                  |                                    |
+| Link y Titulo                                                                                     | Contenido                                                                                                                                                     | Impartida / días | Notas                                                      | Objetivo generico                                |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------------------------------------------------- | ------------------------------------------------ |
+| [2627CL0](https://github.com/Jcspoza/2627CL0_PyR_Intro)                                           | Requisitos de entrada / Presentaciones / Que es la robotica / Enfoque del taller/ Que herramientas vamos a necesitar/ Funcionamiento de las clases / 2 demos: |                  | Actualizado del curso 2526 al 2627                         | Integrar alumnos nuevo                           |
+| [CL2 Primeros pasos en Python -IDE online](https://github.com/Jcspoza/2526CL2_1rosPasosPyNoIDEpc) | Primer y segundo programa en Python sin necesidad de instalar nada. Objetivo : ver como es programar en lo mas básico                                         |                  | Pertenece al curso 2025_26                                 | Integrar alumnos nuevos + Repasar Python         |
+|                                                                                                   | Escribir 'Adivina Numero' con Bucles                                                                                                                          |                  | Pertenece al curso 2024_25                                 | Repasar Python : estructuras control flujo       |
+|                                                                                                   | Cifrado Cesar                                                                                                                                                 |                  | Clase 7 PTSD 24_25 7 en pdf pasar a github                 | Repasar Python: Programación funcional           |
+|                                                                                                   | LMS : library mangement system                                                                                                                                |                  | Nuevo                                                      | Ampliar Python: Programación Orientada a objetos |
+|                                                                                                   | GUI : Tkinter ( real Python tutorial)                                                                                                                         |                  | Nuevo / hay una clase hecha con guizero : curso 23_24 CL30 | Ampliar Python: GUI´s                            |
+|                                                                                                   | Robotica Servos                                                                                                                                               |                  | 2023 – CL6 y 7                                             | Robotica: Motores Servos                         |
+|                                                                                                   | Sensor de distancia ultrasonidos                                                                                                                              |                  | Nuevo                                                      | Robotica: sensor Ultrasonidos                    |
 
 ## Adaptación del Programa del curso 26 - 27 a los alumnos
 
@@ -82,4 +111,4 @@ Los conceptos de electricidad y electrónica que manejáremos son básicos, pero
 
 * [Otra buena web de tutoriales - Freenove ¡El tutorial incluye el nuevo Pico 2!](https://github.com/Freenove/Freenove_Super_Starter_Kit_for_Raspberry_Pi_Pico/tree/main/Python)
 
-------
+-----
